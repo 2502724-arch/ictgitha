@@ -8,7 +8,7 @@ long long calculateFactorial(int n) {
         return -1; // Return a sentinel value for error
     }
 
-    // Base case: 0! is 1
+    // Base 
     if (n == 0) {
         return 1;
     }
